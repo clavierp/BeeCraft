@@ -6,6 +6,9 @@ Pour lancer un modpack moddé il faut installer un launcher compatible. J'ai fai
 
 Pour commencer, téléchargez la version qui vous correspond [ici](https://atlauncher.com/downloads) et lancez/installez là.
 
+
+## Installation du pack
+
 Une fois lancé vous tombez sur cette page
 ![](https://github.com/clavierp/BeeCraft/blob/main/res/screenshots/ATLauncher/wellcome%20page.png?raw=true)
 
@@ -25,8 +28,11 @@ Choissisez la bonne version (problement la dernière, voir sur discord si ce n'e
 Attendez que le pack s'install tout seul
 ![](https://github.com/clavierp/BeeCraft/blob/main/res/screenshots/ATLauncher/install%20complete.png?raw=true)
 
-Allez dans l'onglet "Instances" ezt trouvez le pack "BeeCraft" (normalement vous n'en avez qu'un)
+## Lancement du pack
+
+Allez dans l'onglet "Instances" et trouvez le pack "BeeCraft" (normalement vous n'en avez qu'un)
 ![](https://github.com/clavierp/BeeCraft/blob/main/res/screenshots/ATLauncher/instances%20page.png?raw=true)
 
-Cliquez sur "Play"
+Cliquez sur "Play".
+
 Féllicitation vous venez de lancer un modpack, il ne reste qu'à se connecter sur le serveur.
