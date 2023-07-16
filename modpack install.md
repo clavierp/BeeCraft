@@ -6,11 +6,32 @@ Pour lancer un modpack moddé il faut installer un launcher compatible. J'ai fai
 
 Pour commencer, téléchargez la version qui vous correspond [ici](https://atlauncher.com/downloads) et lancez/installez là.
 
+Une fois lancé vous tombez sur cette page
+![](https://github.com/clavierp/BeeCraft/blob/main/res/screenshots/ATLauncher/wellcome%20page.png?raw=true)
+
+## Ajout du compte Minecraft
+
+Cliquez sur l'onglet "Account"
+![](https://github.com/clavierp/BeeCraft/blob/main/res/screenshots/ATLauncher/add%20%20account.png?raw=true)
+
+### Avec un compte Mojang
+
+Renseignez le champ "Username/Email" et "Password" et cliquez sur "Add".  Attention, cette méthode de connexion risque de disparaitre bientot.
+
+### Avec un compte Microsoft
+Cliquez sur le boutton "Login with Microsoft", une popup s'ouvre
+![](https://github.com/clavierp/BeeCraft/blob/main/res/screenshots/ATLauncher/add%20account%20popup.png?raw=true)
+
+Normalement, votre navigateur web par défaut s'ouvre sur une page de chez microsoft. Laissez vous guider par le site et une fois que le message "Login complete. You can now close this window and go back to ATLauncher" s'affiche vous pouvez retourner sur le launcher.
+
+### Choix du compte
+
+En bas du launcher, au milieu, il y a une liste déroulante pour séléctionner son compte
+
+![](https://github.com/clavierp/BeeCraft/blob/main/res/screenshots/ATLauncher/account%20added.png?raw=true)
 
 ## Installation du pack
 
-Une fois lancé vous tombez sur cette page
-![](https://github.com/clavierp/BeeCraft/blob/main/res/screenshots/ATLauncher/wellcome%20page.png?raw=true)
 
 Cliquez sur l'onglet "Packs" à droite
 ![](https://github.com/clavierp/BeeCraft/blob/main/res/screenshots/ATLauncher/packs%20page.png?raw=true)
